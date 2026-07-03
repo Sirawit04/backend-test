@@ -1,4 +1,4 @@
-arr = [';D', ':-(', ':-)', ';~)']
+
 
 def countSmileys(arr):
     count = 0
