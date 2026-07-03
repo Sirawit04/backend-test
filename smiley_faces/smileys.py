@@ -1,5 +1,3 @@
-
-
 def countSmileys(arr):
     count = 0
     for i in arr:
