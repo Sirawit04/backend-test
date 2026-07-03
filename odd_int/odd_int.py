@@ -12,5 +12,5 @@ def odd_int(arr):
                 return key
             
 
-if __name__ == "__main__":
-     print(odd_int([0]))
+# if __name__ == "__main__":
+#      print(odd_int([0]))
